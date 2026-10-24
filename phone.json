@@ -1,0 +1,1808 @@
+{
+  "version": 1,
+  "id": "941c2968-d00f-4353-bcf2-712e4f8d2f33",
+  "title": "bailee’s phone",
+  "owner": "bailee’s",
+  "ownerAvatar": "assets/1.jpg",
+  "theme": "light",
+  "wallpaper": null,
+  "wallpaperStyle": "aurora",
+  "clock": "17:35",
+  "date": "2026-10-24",
+  "clockMode": "current",
+  "lockTextTone": "auto",
+  "lockWallpaperTransform": {
+    "x": 50,
+    "y": 0,
+    "scale": 1
+  },
+  "homeWallpaperTransform": {
+    "x": 63.73414790818912,
+    "y": 50,
+    "scale": 1
+  },
+  "lockCode": "2809",
+  "lockWallpaper": "assets/2.jpg",
+  "homeWallpaper": "assets/3.jpg",
+  "lockWallpaperStyle": "aurora",
+  "homeWallpaperStyle": "aurora",
+  "showApps": {
+    "messages": true,
+    "contacts": true,
+    "photos": true,
+    "notes": true,
+    "music": true,
+    "calendar": true,
+    "diary": true,
+    "scrapbook": true,
+    "sns": true
+  },
+  "appLayout": {
+    "home": [
+      "music",
+      "sns",
+      "messages",
+      "photos",
+      "calls",
+      "notes"
+    ],
+    "dock": [
+      "calendar",
+      "scrapbook",
+      "diary",
+      "contacts"
+    ]
+  },
+  "homeSlots": {
+    "messages": 10,
+    "photos": 11,
+    "notes": 13,
+    "music": 8,
+    "sns": 9,
+    "calls": 12
+  },
+  "widgets": [
+    {
+      "id": "fd995410-fa68-481e-912e-4b2879ac77ba",
+      "type": "photo",
+      "size": "4x2",
+      "slot": 0,
+      "src": "assets/81.jpg",
+      "style": "fill",
+      "caption": ""
+    }
+  ],
+  "contacts": [
+    {
+      "id": "6df48c82-b3a8-4886-9f4f-b1bd1eead5c7",
+      "name": "arlaaan. <3",
+      "subtitle": "",
+      "phone": "",
+      "favorite": false,
+      "avatar": "assets/4.jpg"
+    },
+    {
+      "id": "82a4279a-869e-41d5-82d9-7359ea8820a0",
+      "name": "decaa",
+      "subtitle": "",
+      "phone": "",
+      "favorite": false,
+      "avatar": "assets/5.jpg"
+    },
+    {
+      "id": "d8815086-a40c-413f-b4fa-da95e6c9f9db",
+      "name": "kak el",
+      "subtitle": "",
+      "phone": "",
+      "favorite": false,
+      "avatar": "assets/6.jpg"
+    },
+    {
+      "id": "13cbb09e-8c54-4286-9fc4-8be4a4c31ad3",
+      "name": "neille",
+      "subtitle": "",
+      "phone": "",
+      "favorite": false,
+      "avatar": "assets/7.jpg"
+    }
+  ],
+  "threads": [
+    {
+      "id": "404c6a2a-a60f-4daf-b633-67fde029fa98",
+      "contactId": "6df48c82-b3a8-4886-9f4f-b1bd1eead5c7",
+      "messages": [
+        {
+          "id": "d395a364-3284-4931-abef-7636a9f11a68",
+          "kind": "date",
+          "text": "Thursday, October 8",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 10,
+            "day": 8,
+            "weekday": 4
+          }
+        },
+        {
+          "id": "5fc49ddd-1c1f-4c19-a3e5-dccec2a8a4c9",
+          "from": "me",
+          "text": "arlaannn",
+          "time": "17:59"
+        },
+        {
+          "id": "c4f61b6b-159c-4e76-b1d9-74bec802e8b8",
+          "from": "me",
+          "text": "dimanaa",
+          "time": "17:59"
+        },
+        {
+          "id": "e54fc119-6354-428c-a6d3-bedaf60efa3e",
+          "from": "me",
+          "text": "sayang mendung ih",
+          "time": "18:00"
+        },
+        {
+          "id": "75fe084a-38c7-45cc-a12f-a4c541f6aa50",
+          "from": "me",
+          "text": "kamu jadi bisa jemput gak?",
+          "time": "18:00"
+        },
+        {
+          "id": "e60e80f3-62f5-4936-ad7c-4e3178c16f65",
+          "from": "me",
+          "text": "sayang kalau kamu ngga bisa bilang aja..",
+          "time": "18:00"
+        },
+        {
+          "id": "a123b226-074a-42d4-9367-11ac8350afe4",
+          "from": "me",
+          "text": "aku pulang sama kak el",
+          "time": "18:00"
+        },
+        {
+          "id": "8e00cbd3-c173-4e30-b487-8f1603da4282",
+          "from": "them",
+          "text": "sayang, i’m sorry",
+          "time": "18:06"
+        },
+        {
+          "id": "4b2fd9c0-8c7e-4296-bb7d-d994aaeff3e3",
+          "from": "them",
+          "text": "hari ini selesainya delay dari estimasi.",
+          "time": "18:07"
+        },
+        {
+          "id": "75f1369d-5556-4a57-bfc6-b309a92f7c78",
+          "from": "them",
+          "text": "aku baru selesai sekarang",
+          "time": "18:07"
+        },
+        {
+          "id": "5bbe641d-170a-47e0-975a-730b8f7a0a03",
+          "from": "them",
+          "text": "kamu dimana?",
+          "time": "18:07"
+        },
+        {
+          "id": "89332c3a-51d3-40a2-9d68-102a0e5a2439",
+          "from": "me",
+          "text": "dirumah",
+          "time": "18:07"
+        },
+        {
+          "id": "ac9ea2a8-6b64-464d-8680-b5a2d7e81a32",
+          "from": "them",
+          "text": "jadi sama kak el?",
+          "time": "18:07"
+        },
+        {
+          "id": "4f4e9a62-a65e-4bd6-bf01-8ebcd536f926",
+          "from": "me",
+          "text": "iyaa",
+          "time": "18:07"
+        },
+        {
+          "id": "43d88264-8f00-437a-a280-e15c47da8152",
+          "from": "them",
+          "text": "",
+          "time": "18:09",
+          "image": "assets/8.jpg"
+        },
+        {
+          "id": "73c1b2da-0216-4609-b240-0068e0dd6875",
+          "from": "them",
+          "text": "i’m on my way home.",
+          "time": "18:09"
+        },
+        {
+          "id": "cf21e9be-4cc1-461b-aa0f-0b960ecc75e4",
+          "from": "me",
+          "text": "hati hati",
+          "time": "18:09"
+        },
+        {
+          "id": "cb06e6a2-26ec-4b5c-a8a0-499728ddebc9",
+          "from": "them",
+          "text": "sayang",
+          "time": "18:10"
+        },
+        {
+          "id": "114dbd82-ac1b-45b0-8ec4-c71b3be8b0f2",
+          "from": "them",
+          "text": "baru sampe rumah",
+          "time": "18:10"
+        },
+        {
+          "id": "a710af9c-6cfa-42d6-ad55-5e4cb04434c5",
+          "from": "them",
+          "text": "kamu udah tidur?",
+          "time": "18:10"
+        },
+        {
+          "id": "391bf33b-3e0c-4909-9fd3-38e3b7d797a0",
+          "from": "them",
+          "text": "good night.",
+          "time": "18:10"
+        },
+        {
+          "id": "49db81c3-876c-4eb5-a10b-455d907d0f1b",
+          "kind": "date",
+          "text": "Friday, October 9",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 10,
+            "day": 9,
+            "weekday": 5
+          }
+        },
+        {
+          "id": "5fab0f3b-556b-467d-911f-d5b68272554f",
+          "from": "them",
+          "text": "hey",
+          "time": "18:10"
+        },
+        {
+          "id": "ff92b481-4893-48c1-85a6-02bf22b58dce",
+          "from": "them",
+          "text": "kamu marah?",
+          "time": "18:10"
+        },
+        {
+          "id": "91d4a17e-e1a9-4c07-82f6-6323e094b261",
+          "from": "me",
+          "text": "ngga",
+          "time": "18:11"
+        },
+        {
+          "id": "7fe4d882-712c-4cfb-aaf8-71ec6ca0b6b4",
+          "from": "me",
+          "text": "aman kok 👍🏻",
+          "time": "18:11"
+        },
+        {
+          "id": "cea1a58a-c16e-4773-ad78-f35fc4278bae",
+          "from": "them",
+          "text": "kan.",
+          "time": "18:11"
+        },
+        {
+          "id": "ed76e937-f25f-496f-a2a3-b8cb23caead8",
+          "from": "them",
+          "text": "kamu selalu kaya gini.",
+          "time": "18:11"
+        },
+        {
+          "id": "e9ed113a-d53a-42aa-ad06-b3f57bdf96c9",
+          "from": "me",
+          "text": "kaya gini gimana?",
+          "time": "18:11"
+        },
+        {
+          "id": "23bf165e-1565-440a-abf8-42374501b076",
+          "from": "them",
+          "text": "udahlah.",
+          "time": "18:12"
+        },
+        {
+          "id": "cddf3969-88cb-4fe5-bdbc-cd79c568cd7c",
+          "from": "me",
+          "text": "loh, i asked you.",
+          "time": "18:12"
+        },
+        {
+          "id": "415168a5-9af7-4826-b4af-694cb4d2a3d0",
+          "from": "me",
+          "text": "kamu tuh bukan sekali dua kali ngejanjiin aku buat jemput, buat kesini, buat kesitu.",
+          "time": "18:13"
+        },
+        {
+          "id": "06ac42b2-359e-4ed0-9f8a-5458746f7f15",
+          "from": "me",
+          "text": "kamu ngga sekali dua kali ngelarang aku buat nemenin kamu kerja kaya dulu.",
+          "time": "18:13"
+        },
+        {
+          "id": "880ee016-3a75-40ca-9955-6bf46a8cf65a",
+          "from": "me",
+          "text": "aku juga bukan sekali dua kali bilang gapapa",
+          "time": "18:14"
+        },
+        {
+          "id": "65a2d58f-2c40-4765-b083-8fc0d8229dd2",
+          "from": "me",
+          "text": "sometimes, it hurts me. deeper and deeper.",
+          "time": "18:15"
+        },
+        {
+          "id": "94eb2ba0-ef28-47ad-b518-04b592bfd8ab",
+          "from": "me",
+          "text": "aku bahkan mau inisiatif bawain kamu makanan, saking sibuknya kamu. tapi aku ngga pernah ngerasa kamu mau",
+          "time": "18:16"
+        },
+        {
+          "id": "c00514f9-d717-492d-8310-f732f386c4c5",
+          "from": "me",
+          "text": "entah kamu ngga mau makananku, atau eksistensiku.",
+          "time": "18:16"
+        },
+        {
+          "id": "657d00f9-cb84-4501-abf3-9de67fbbc243",
+          "from": "them",
+          "text": "bailee, it’s our 4 years tgt.",
+          "time": "18:17"
+        },
+        {
+          "id": "87026441-f735-42e5-96ba-9d871b945ea5",
+          "from": "them",
+          "text": "aku pikir kamu ngerti.",
+          "time": "18:17"
+        },
+        {
+          "id": "b5e38ab6-6e77-4e6e-ba40-9500424cd1e6",
+          "from": "me",
+          "text": "aku ngerti. aku terlalu jauh ngertiin kamu sampe akhirnya aku nyakitin diri aku sendiri.",
+          "time": "18:18"
+        },
+        {
+          "id": "9b591c2f-bb18-4c8c-b2b8-8eca8cceb51d",
+          "from": "them",
+          "text": "then i’m sorry.",
+          "time": "18:18"
+        },
+        {
+          "id": "c97061f8-2e8a-482a-a1b1-4a7563932e70",
+          "from": "them",
+          "text": "for hurting you.",
+          "time": "18:19"
+        },
+        {
+          "id": "b2f0acf5-f3cf-4d98-854c-e1f2f3d9c198",
+          "from": "them",
+          "text": "aku gatau harus gimana, bai. aku juga ga nyangka jadwal aku sepadat ini",
+          "time": "18:19"
+        },
+        {
+          "id": "c122c45f-cd47-4eb5-8306-b36e40432540",
+          "from": "them",
+          "text": "kalau kamu ngerasa aku nyakitin kamu, i’m sorry. truly.",
+          "time": "18:20"
+        },
+        {
+          "id": "9bbb595d-84dd-43f8-a3ea-7a0729ad9118",
+          "from": "them",
+          "text": "can we just end this, bai?",
+          "time": "18:22"
+        },
+        {
+          "id": "c352be43-84ca-493b-b60d-6933294a79b6",
+          "from": "them",
+          "text": "our paths used to cross",
+          "time": "18:22"
+        },
+        {
+          "id": "5215f155-03c0-485d-9df7-45e755901b17",
+          "from": "them",
+          "text": "but not anymore.",
+          "time": "18:23"
+        },
+        {
+          "id": "a77ab145-9200-4102-8e0f-c0cb84a70773",
+          "from": "me",
+          "text": "wow",
+          "time": "18:23"
+        },
+        {
+          "id": "3cf6d482-d428-49d2-b492-c04b7b0cec84",
+          "from": "me",
+          "text": "kamu cuma nunda nunda waktu buat selesai sama aku ya?",
+          "time": "18:23"
+        },
+        {
+          "id": "726562ed-c04e-459a-8bb3-027b4bb84b79",
+          "from": "me",
+          "text": "sampe aku harus bener bener ngomong kaya gini ke kamu?",
+          "time": "18:23"
+        },
+        {
+          "id": "137b6540-3b08-42ba-a644-f9fa7a555015",
+          "from": "me",
+          "text": "okay, then.",
+          "time": "18:24"
+        },
+        {
+          "id": "eea032b7-0a50-4d01-95ce-084ba5b16774",
+          "from": "me",
+          "text": "sorry for being annoying and once draining your energy.",
+          "time": "18:25"
+        },
+        {
+          "id": "548031ea-cf5f-46b0-a022-59ae965a16cb",
+          "from": "them",
+          "text": "i’m sorry, bai",
+          "time": "18:25"
+        },
+        {
+          "id": "8ef4fbaf-134b-434b-a69f-a2a66e15eab4",
+          "kind": "date",
+          "text": "Saturday, October 10",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 10,
+            "day": 10,
+            "weekday": 6
+          }
+        },
+        {
+          "id": "7fe67839-5b9d-40a7-a12e-e362d7663dc2",
+          "from": "them",
+          "text": "bai",
+          "time": "22:30"
+        },
+        {
+          "id": "73ed390e-41b2-485d-8661-9f3f83f2fa0c",
+          "from": "them",
+          "text": "can we meet?",
+          "time": "22:30"
+        },
+        {
+          "id": "8283b8d2-2f7f-4331-8273-2a3ed663a4bf",
+          "from": "them",
+          "text": "hey",
+          "time": "22:32"
+        },
+        {
+          "id": "b8644ad1-a03d-4802-9d3a-966dda962fd3",
+          "from": "me",
+          "text": "no",
+          "time": "22:33"
+        },
+        {
+          "id": "9996fc0d-12c9-4bef-9ee3-cd35f93456fc",
+          "from": "them",
+          "text": "bai, come on",
+          "time": "22:33"
+        },
+        {
+          "id": "f8e2ca69-c483-4047-a1cf-d316de2f6e27",
+          "from": "them",
+          "text": "maaf",
+          "time": "22:33"
+        },
+        {
+          "id": "6df93196-fba1-426d-a0b6-fd2a0b13b200",
+          "from": "me",
+          "text": "you said it easily then minta aku untuk ketemu kamu?",
+          "time": "22:34"
+        },
+        {
+          "id": "5aa3dbf7-b1a7-4b43-9f73-4013d3350df6",
+          "from": "me",
+          "text": "bahkan lukaku masih gila-gilanya, arlan.",
+          "time": "22:34"
+        },
+        {
+          "id": "e6cb6330-ef2c-49ab-b417-f650d864c8ad",
+          "from": "me",
+          "text": "it hurts me more than you expected.",
+          "time": "22:34"
+        },
+        {
+          "id": "1ec28a21-e569-41a8-ab50-d8068a729332",
+          "from": "me",
+          "text": "aku bahkan ngga nyangka bakal dapet luka sebesar ini dari kamu.",
+          "time": "22:35"
+        },
+        {
+          "id": "7e3a945d-9071-45d8-91ff-7ff778082ae8",
+          "from": "them",
+          "text": "bai.. i’m sorry, i didn’t mean to.",
+          "time": "22:35"
+        },
+        {
+          "id": "f8533330-9fa5-49c7-a13d-7fcc363c9cb5",
+          "from": "them",
+          "text": "aku kesana ya?",
+          "time": "22:35"
+        },
+        {
+          "id": "4a3c5032-01c2-4420-9762-ef7701131425",
+          "from": "them",
+          "text": "kamu dimana?",
+          "time": "22:35"
+        },
+        {
+          "id": "88358a89-65fe-4619-9b7d-2f7ba6692470",
+          "from": "them",
+          "text": "bailee",
+          "time": "22:37"
+        }
+      ],
+      "draft": "enough, arlan.",
+      "timelineVersion": 1
+    },
+    {
+      "id": "afbfe249-90b2-44b5-84bb-026d41d2507e",
+      "contactId": "d8815086-a40c-413f-b4fa-da95e6c9f9db",
+      "messages": [
+        {
+          "id": "7c63b545-7308-4a97-bdd5-ecd0b866b996",
+          "kind": "date",
+          "text": "Thursday, October 8",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 10,
+            "day": 8,
+            "weekday": 4
+          }
+        },
+        {
+          "id": "2615ba7d-0fe7-4e67-9f92-5e51d54a2f13",
+          "from": "me",
+          "text": "kak el",
+          "time": "18:01"
+        },
+        {
+          "id": "12f44d89-3790-4e62-88f3-4ec64199b53d",
+          "from": "me",
+          "text": "bisa jemput nggaa",
+          "time": "18:01"
+        },
+        {
+          "id": "c74d04ac-92ac-4a0c-a7f6-4da554d2476e",
+          "from": "them",
+          "text": "gak jadi bareng pacarmu?",
+          "time": "18:01"
+        },
+        {
+          "id": "d2f3f311-4f82-4ce2-a191-0ea23728a8b8",
+          "from": "me",
+          "text": "nooo udah mendung banget inii",
+          "time": "18:01"
+        },
+        {
+          "id": "66074ea0-5013-4a1d-ab47-49780b3a2cc1",
+          "from": "me",
+          "text": "kayanya delay deh jadwal projectnyaa",
+          "time": "18:02"
+        },
+        {
+          "id": "847adca5-464b-4f3e-9100-3872557b1eed",
+          "from": "me",
+          "text": "jemputnya di gerbang kampus ajaa",
+          "time": "18:02"
+        },
+        {
+          "id": "bcf5726c-fcc6-416a-b357-aaa39b9a075d",
+          "from": "them",
+          "text": "hadeh, kebiasaan.",
+          "time": "18:03"
+        },
+        {
+          "id": "4525f480-ff94-41e4-b0be-6ba37b556618",
+          "from": "them",
+          "text": "oke",
+          "time": "18:03"
+        },
+        {
+          "id": "1c21dabf-a322-4570-aef2-a4cb87eb4347",
+          "from": "them",
+          "text": "neduh dulu kamu",
+          "time": "18:03"
+        },
+        {
+          "id": "582e2da9-c6ff-4e2e-81b4-dc0362fafe13",
+          "kind": "date",
+          "text": "Friday, October 9",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 10,
+            "day": 9,
+            "weekday": 5
+          }
+        },
+        {
+          "id": "d5a7e8fb-4129-46b0-8729-27cb13bb1780",
+          "from": "me",
+          "text": "ksk",
+          "time": "22:26"
+        },
+        {
+          "id": "1ef31ae6-00d4-4ec1-a207-d0603ea28b8d",
+          "from": "me",
+          "text": "kskak",
+          "time": "22:26"
+        },
+        {
+          "id": "394ed65a-f881-487a-addc-a6f5fb34218e",
+          "from": "me",
+          "text": "dimana",
+          "time": "22:26"
+        },
+        {
+          "id": "523d90c5-44cc-40ed-bc44-f3b00d9d1893",
+          "from": "them",
+          "text": "ini lagi dijalan pulang, deeek.",
+          "time": "22:27"
+        },
+        {
+          "id": "aafbc600-7599-4cd2-9dd1-9b39cfcfc33b",
+          "from": "them",
+          "text": "kenapa?",
+          "time": "22:27"
+        },
+        {
+          "id": "6096c3b0-47a3-46d0-95cd-5ce9089723a4",
+          "from": "me",
+          "text": "pulanh",
+          "time": "22:27"
+        },
+        {
+          "id": "f7b14f69-b80a-4eab-8167-f95f4abdf637",
+          "from": "me",
+          "text": "kak akh nda kuayt",
+          "time": "22:27"
+        },
+        {
+          "id": "75e2dd23-7893-40d6-bb70-97c824e3b2a4",
+          "from": "me",
+          "text": "hati hsti",
+          "time": "22:27"
+        },
+        {
+          "id": "8a87e887-d587-4aca-8988-c1494b12c0e2",
+          "from": "them",
+          "text": "adek",
+          "time": "22:28"
+        },
+        {
+          "id": "7bd16404-eeef-4a1b-b728-33c97ed94551",
+          "from": "them",
+          "text": "kenapa?",
+          "time": "22:28"
+        },
+        {
+          "id": "57617d94-b233-45f2-a744-afbe2ca77496",
+          "from": "them",
+          "text": "bentar, otw pulang.",
+          "time": "22:28"
+        },
+        {
+          "id": "f2ef2860-19df-47c7-9eb7-974388b21be4",
+          "from": "them",
+          "text": "lagi mau apa gak?",
+          "time": "22:28"
+        },
+        {
+          "id": "1cbda0c3-b591-483d-be78-f758565ff980",
+          "from": "them",
+          "text": "kakak beliin.",
+          "time": "22:28"
+        },
+        {
+          "id": "ddcdb054-f50b-43e7-acd0-e494aefd140e",
+          "from": "me",
+          "text": "kaksk sini",
+          "time": "22:28"
+        },
+        {
+          "id": "6c8b73dd-f9ce-4c91-9a85-4fff15c688ba",
+          "from": "me",
+          "text": "cepet",
+          "time": "22:28"
+        },
+        {
+          "id": "cc535186-b3b9-48e4-8750-78ed2b413e5d",
+          "from": "me",
+          "text": ":(((",
+          "time": "22:28"
+        },
+        {
+          "id": "e722fa31-e271-40b3-a749-1ac23d0cf2af",
+          "from": "them",
+          "text": "coklat ya.",
+          "time": "22:28"
+        },
+        {
+          "id": "e0c5b021-8c0f-4758-a3a6-e02f20a18a8b",
+          "from": "them",
+          "text": "tunggu, jangan keluyuran.",
+          "time": "22:29"
+        }
+      ],
+      "draft": "",
+      "timelineVersion": 1
+    },
+    {
+      "id": "4b7e6dab-6d74-4774-babd-4f0fa273cd1c",
+      "contactId": "82a4279a-869e-41d5-82d9-7359ea8820a0",
+      "messages": [
+        {
+          "id": "88de96ac-bc2b-4994-b687-75b4580799eb",
+          "kind": "date",
+          "text": "Wednesday, October 14",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 10,
+            "day": 14,
+            "weekday": 3
+          }
+        },
+        {
+          "id": "6e01e7bf-8f1a-4d62-9c57-428c3445bb5f",
+          "from": "them",
+          "text": "baileee sayangkuu",
+          "time": "19:13"
+        },
+        {
+          "id": "41ec492c-820f-44aa-84d6-5b8d63b9389f",
+          "from": "them",
+          "text": "keluar yuk",
+          "time": "19:13"
+        },
+        {
+          "id": "c66c5ac8-22f6-48e6-adab-5e1e428ee286",
+          "from": "them",
+          "text": "aku temenin kemana aja..",
+          "time": "19:13"
+        },
+        {
+          "id": "f3d3cf71-e3b6-49a2-8a9d-191adf496287",
+          "from": "them",
+          "text": "jangan kaya gini bebee",
+          "time": "19:13"
+        },
+        {
+          "id": "120f130a-eb0c-40a0-819a-b2c4fff82865",
+          "from": "me",
+          "text": "deca i can’t",
+          "time": "19:13"
+        },
+        {
+          "id": "8155f433-8b68-4580-a8bf-74f3195cabc7",
+          "from": "me",
+          "text": "it hurts",
+          "time": "19:13"
+        },
+        {
+          "id": "d2a0935f-79f8-40cf-8356-aeb2db0b152a",
+          "from": "me",
+          "text": "buka galeri, buka notes, buka semuanya. it hurts me and i can’t take it anymore",
+          "time": "19:14"
+        },
+        {
+          "id": "703cb351-7dfb-4803-8cb0-044e28182d07",
+          "from": "me",
+          "text": "orang jahatnya disini aku ya?",
+          "time": "19:14"
+        },
+        {
+          "id": "7542ba16-6622-48db-ae65-dc312939b424",
+          "from": "them",
+          "text": "noooo don’t say that okaay :(",
+          "time": "19:15"
+        },
+        {
+          "id": "056ad534-f214-4031-8820-0270aaad99f3",
+          "from": "them",
+          "text": "kamu ngga pernah tau apa yang bakal ada hari ini, besok dan seterusnya",
+          "time": "19:16"
+        },
+        {
+          "id": "a0892992-6c00-48b1-82fe-c9565fc1a100",
+          "from": "them",
+          "text": "kamu ngga boleh kaya gini teruuus :(",
+          "time": "19:16"
+        },
+        {
+          "id": "59e17a5f-426e-4a0d-ac80-361be1c9ce6e",
+          "from": "them",
+          "text": "aku jemput yaa?",
+          "time": "19:17"
+        },
+        {
+          "id": "a2bbb621-cc47-416b-a05d-246ca0ecd329",
+          "from": "me",
+          "text": "did he ever love me, ca?",
+          "time": "19:17"
+        },
+        {
+          "id": "cf6f4ff4-87b1-4059-8719-1760e775ef9f",
+          "from": "me",
+          "text": "he said our paths crossed once",
+          "time": "19:19"
+        },
+        {
+          "id": "afa8edd2-58c9-4016-8522-9f6229782e7d",
+          "from": "me",
+          "text": "but not anymore",
+          "time": "19:19"
+        },
+        {
+          "id": "30b52d01-56c8-409f-89c9-2bf0073dd5ad",
+          "from": "me",
+          "text": "aku kah yang jahat disini, aku ngebosenin kah",
+          "time": "19:20"
+        },
+        {
+          "id": "bd853a30-1c1d-4ff5-abdc-65488b048c9a",
+          "from": "them",
+          "text": "baaai :(",
+          "time": "19:20"
+        },
+        {
+          "id": "c49cc39e-ff15-458a-bbbe-c0cb29832828",
+          "from": "them",
+          "text": "ngga ada yang jahat disini okay",
+          "time": "19:20"
+        },
+        {
+          "id": "8a2bbab9-5079-4ed4-866c-033a5fc1f91f",
+          "from": "them",
+          "text": "kalian juga harus ngerti kalau hubungan bukan cuma tentang seberapa banyak waktu yang kalian keluarin bareng-bareng",
+          "time": "19:21"
+        },
+        {
+          "id": "d28fba8c-36eb-4c98-b3cb-e85f77a23d81",
+          "from": "them",
+          "text": "you both care abt eo but your communication was blah",
+          "time": "19:23"
+        },
+        {
+          "id": "3b4ce86c-3653-41d0-9a81-17088e26b398",
+          "from": "me",
+          "text": ":(",
+          "time": "19:23"
+        },
+        {
+          "id": "9f84ce70-6356-4811-b021-19d011bc6cef",
+          "from": "them",
+          "text": "yuk keluarrrr sama akuu",
+          "time": "19:24"
+        },
+        {
+          "id": "002ac83b-197a-4228-9056-0933f96cfa72",
+          "from": "me",
+          "text": "not today ya, ca..",
+          "time": "19:24"
+        },
+        {
+          "id": "06175ef0-5e05-4f9d-b169-22f3c04be1f1",
+          "from": "me",
+          "text": "aku gakuat",
+          "time": "19:24"
+        },
+        {
+          "id": "17ccf407-f5f6-4752-b9d3-4aa6ef8b5503",
+          "from": "them",
+          "text": ":((( it’s okaaay",
+          "time": "19:24"
+        },
+        {
+          "id": "5005ac5b-fefe-42ad-b876-be6948800a3c",
+          "from": "them",
+          "text": "take your time yaaaa",
+          "time": "19:24"
+        },
+        {
+          "id": "c5bcf3a4-4d8c-4fc8-9eb7-3a5136963fa2",
+          "from": "them",
+          "text": "text me if u need smth okaay",
+          "time": "19:24"
+        },
+        {
+          "id": "1e4419ee-e831-49a8-9049-68e604d05b41",
+          "from": "me",
+          "text": "ily",
+          "time": "19:24"
+        }
+      ],
+      "draft": "",
+      "timelineVersion": 1
+    },
+    {
+      "id": "3631de3d-136e-4f95-b5ed-2927c7ad6894",
+      "contactId": "13cbb09e-8c54-4286-9fc4-8be4a4c31ad3",
+      "messages": [
+        {
+          "id": "d3c97c72-e499-40b2-9ed1-0463f786b034",
+          "kind": "date",
+          "text": "Saturday, October 10",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 10,
+            "day": 10,
+            "weekday": 6
+          }
+        },
+        {
+          "id": "d7cdcc1d-22e7-4b25-b977-0f9465b9ac98",
+          "from": "me",
+          "text": "we’re done",
+          "time": "22:20"
+        },
+        {
+          "id": "80dd6fed-7329-429f-957d-07f4ac5702c1",
+          "from": "them",
+          "text": "HAAAH",
+          "time": "22:20"
+        },
+        {
+          "id": "c54f14dd-f0ab-4390-8355-fd6d1f6c6467",
+          "from": "them",
+          "text": "bailee r u okay?",
+          "time": "22:20"
+        },
+        {
+          "id": "4979030c-9d97-43d0-91ed-863ce1ff9bea",
+          "from": "me",
+          "text": "akj hayau",
+          "time": "22:20"
+        },
+        {
+          "id": "ad906ad5-6584-43e8-9baf-d7e40e404ced",
+          "from": "me",
+          "text": "aku mau nahgis",
+          "time": "22:20"
+        },
+        {
+          "id": "d0eb8f1b-5a48-425f-afa6-72dfd8125209",
+          "from": "me",
+          "text": "kenaoansemua nya jadi guni",
+          "time": "22:20"
+        },
+        {
+          "id": "9a1f7633-782f-4fa4-8048-f856351ce25a",
+          "from": "me",
+          "text": "nei…aku njga bida",
+          "time": "22:21"
+        },
+        {
+          "id": "e708cd35-c88e-4a08-a64e-6bed1b4fcb5e",
+          "from": "them",
+          "text": "bailee aku kesana",
+          "time": "22:21"
+        },
+        {
+          "id": "d9a49225-e64c-4b31-8769-ae489a9a265a",
+          "from": "them",
+          "text": "kamu dimana?",
+          "time": "22:21"
+        },
+        {
+          "id": "fb8b6892-164c-4659-aeca-2ca95171bd52",
+          "from": "me",
+          "text": "akj lahi jalan ke taman kota",
+          "time": "22:23"
+        },
+        {
+          "id": "91fb4798-7166-4711-b3ca-ef4f0b9af27e",
+          "from": "them",
+          "text": "wait",
+          "time": "22:24"
+        },
+        {
+          "id": "5f156e55-57be-47bc-a468-266fd90c6427",
+          "from": "them",
+          "text": "WAIT GAUSAH JALAN AKU KESANA",
+          "time": "22:24"
+        },
+        {
+          "id": "17dd0f37-d05d-45b1-a3fa-8e4d58becf5d",
+          "from": "me",
+          "text": "its been a day and i’m stiml here cruing",
+          "time": "22:24"
+        },
+        {
+          "id": "47ad7c5c-2b97-4877-8135-c3a26a0ffc6b",
+          "from": "them",
+          "text": "SSSHHHHH UDAH",
+          "time": "22:24"
+        },
+        {
+          "id": "7a1ed8fb-107c-4eb9-91b0-f390e7f21f6a",
+          "from": "them",
+          "text": "TUNGGU DISANA",
+          "time": "22:24"
+        }
+      ],
+      "draft": "",
+      "timelineVersion": 1
+    }
+  ],
+  "photos": [
+    {
+      "id": "99857bec-349a-496c-bd0f-d1e972128ff7",
+      "src": "assets/9.jpg",
+      "caption": "",
+      "date": "2025-04-07",
+      "favorite": false
+    },
+    {
+      "id": "5448ad07-8d8d-4fe3-a18e-4f2b80e26425",
+      "src": "assets/10.jpg",
+      "caption": "",
+      "date": "2025-04-07",
+      "favorite": false
+    },
+    {
+      "id": "77b5fb87-b73b-4b4f-80fe-7758587c1a8e",
+      "src": "assets/11.jpg",
+      "caption": "",
+      "date": "2025-04-15",
+      "favorite": false
+    },
+    {
+      "id": "5277f980-a080-467f-8596-58a99062853c",
+      "src": "assets/12.jpg",
+      "caption": "",
+      "date": "2025-05-01",
+      "favorite": false
+    },
+    {
+      "id": "99345e2e-7268-4c8c-9af7-43f180d8d53d",
+      "src": "assets/13.jpg",
+      "caption": "",
+      "date": "2025-05-02",
+      "favorite": false
+    },
+    {
+      "id": "ed079d94-1938-45ea-b81a-de8cb309c07b",
+      "src": "assets/14.jpg",
+      "caption": "",
+      "date": "2025-05-10",
+      "favorite": false
+    },
+    {
+      "id": "b5afca02-3093-4f07-83c2-3c0f4a491df2",
+      "src": "assets/15.jpg",
+      "caption": "",
+      "date": "2025-05-12",
+      "favorite": false
+    },
+    {
+      "id": "19059815-eb2e-4344-92e3-acf3f0cae4b7",
+      "src": "assets/16.jpg",
+      "caption": "",
+      "date": "2025-05-21",
+      "favorite": false
+    },
+    {
+      "id": "3c573fa9-b0d9-4425-b6ac-f3d15efb5720",
+      "src": "assets/17.jpg",
+      "caption": "",
+      "date": "2025-06-25",
+      "favorite": false
+    },
+    {
+      "id": "07627658-5930-456e-a87a-6b8b9c2e3e61",
+      "src": "assets/18.jpg",
+      "caption": "",
+      "date": "2025-09-28",
+      "favorite": false
+    },
+    {
+      "id": "077b1f24-759f-461d-b8ce-b7f4adfb2b12",
+      "src": "assets/19.jpg",
+      "caption": "",
+      "date": "2025-09-28",
+      "favorite": false
+    },
+    {
+      "id": "9fbc2642-e131-4070-9174-324a2b2932a4",
+      "src": "assets/20.jpg",
+      "caption": "",
+      "date": "2025-09-28",
+      "favorite": false
+    },
+    {
+      "id": "b2ffeea0-1931-436e-94e6-1ca1085708de",
+      "src": "assets/21.jpg",
+      "caption": "",
+      "date": "2025-10-02",
+      "favorite": false
+    },
+    {
+      "id": "0dbed522-ef57-4ecd-82dd-704ec713eb77",
+      "src": "assets/22.jpg",
+      "caption": "",
+      "date": "2025-10-08",
+      "favorite": false
+    },
+    {
+      "id": "46bac0d5-1e05-4137-a444-9657c2cc37ba",
+      "src": "assets/23.jpg",
+      "caption": "",
+      "date": "2025-10-08",
+      "favorite": false
+    },
+    {
+      "id": "908f3ee2-2f03-4638-9f22-770197d9788d",
+      "src": "assets/24.jpg",
+      "caption": "",
+      "date": "2025-10-14",
+      "favorite": false
+    },
+    {
+      "id": "cd13d5e1-e508-4c3b-b08f-d86dc0760905",
+      "src": "assets/25.jpg",
+      "caption": "",
+      "date": "2025-10-22",
+      "favorite": false
+    },
+    {
+      "id": "a0bc4655-1adb-470b-8bc4-49a0896f0918",
+      "src": "assets/26.jpg",
+      "caption": "",
+      "date": "2025-10-22",
+      "favorite": false
+    },
+    {
+      "id": "02e63b66-bb7b-47ec-a73b-58b7c33bb5e5",
+      "src": "assets/27.jpg",
+      "caption": "",
+      "date": "2025-10-22",
+      "favorite": false
+    },
+    {
+      "id": "f7b7832f-f09b-46eb-a622-9d5880d51e3a",
+      "src": "assets/28.jpg",
+      "caption": "",
+      "date": "2025-10-30",
+      "favorite": false
+    },
+    {
+      "id": "8528b1ab-fe7c-4a8c-87ae-306906365c99",
+      "src": "assets/29.jpg",
+      "caption": "",
+      "date": "2025-10-30",
+      "favorite": false
+    },
+    {
+      "id": "5f80f6f2-0f4d-4b89-9ded-a676f0caa551",
+      "src": "assets/30.jpg",
+      "caption": "",
+      "date": "2025-11-05",
+      "favorite": false
+    },
+    {
+      "id": "37374053-d243-47ff-83f6-6c26c02b074a",
+      "src": "assets/31.jpg",
+      "caption": "",
+      "date": "2025-11-14",
+      "favorite": false
+    },
+    {
+      "id": "fbfb275e-9297-47cf-ab1e-b61e296167a8",
+      "src": "assets/32.jpg",
+      "caption": "",
+      "date": "2025-11-15",
+      "favorite": false
+    },
+    {
+      "id": "acf6f01a-8258-4623-ac7c-714d2cfa89f2",
+      "src": "assets/33.jpg",
+      "caption": "",
+      "date": "2025-11-15",
+      "favorite": false
+    },
+    {
+      "id": "7783bee7-f56b-42fa-a6d7-4a8e040d5571",
+      "src": "assets/34.jpg",
+      "caption": "",
+      "date": "2025-11-17",
+      "favorite": false
+    },
+    {
+      "id": "dd22bf52-18d4-4158-8790-b0af4db4db8e",
+      "src": "assets/35.jpg",
+      "caption": "",
+      "date": "2025-11-17",
+      "favorite": false
+    },
+    {
+      "id": "216c3553-42e8-4bec-943e-d6d464aa41a0",
+      "src": "assets/36.jpg",
+      "caption": "",
+      "date": "2025-11-17",
+      "favorite": false
+    },
+    {
+      "id": "2b4a692b-30d4-417f-a192-858891416ada",
+      "src": "assets/37.jpg",
+      "caption": "",
+      "date": "2025-11-17",
+      "favorite": false
+    },
+    {
+      "id": "c5a82163-9f2f-4c25-990f-5eac02330a86",
+      "src": "assets/38.jpg",
+      "caption": "",
+      "date": "2025-11-18",
+      "favorite": false
+    },
+    {
+      "id": "39ab82f4-1ea1-4ea3-a514-a98327effe45",
+      "src": "assets/39.jpg",
+      "caption": "",
+      "date": "2025-12-03",
+      "favorite": false
+    },
+    {
+      "id": "1e28e142-7dff-4358-94d3-bc36e88bcfee",
+      "src": "assets/40.jpg",
+      "caption": "",
+      "date": "2025-12-03",
+      "favorite": false
+    },
+    {
+      "id": "79393f15-23b4-490b-8bc1-ce4e212a8a19",
+      "src": "assets/41.jpg",
+      "caption": "",
+      "date": "2025-12-09",
+      "favorite": false
+    },
+    {
+      "id": "947e606c-ba7f-462b-9eb2-8c6d2166d20c",
+      "src": "assets/42.jpg",
+      "caption": "",
+      "date": "2025-12-11",
+      "favorite": false
+    },
+    {
+      "id": "7588cc06-4151-4ef4-b883-51944c6a980f",
+      "src": "assets/43.jpg",
+      "caption": "",
+      "date": "2025-12-13",
+      "favorite": false
+    },
+    {
+      "id": "efcb61c4-6cfb-4add-8b77-863764d9685e",
+      "src": "assets/44.jpg",
+      "caption": "",
+      "date": "2026-01-15",
+      "favorite": false
+    },
+    {
+      "id": "8141ed66-0168-4349-8a15-9ab9ff95c730",
+      "src": "assets/45.jpg",
+      "caption": "",
+      "date": "2026-01-15",
+      "favorite": false
+    },
+    {
+      "id": "3f55bf5e-67fc-43f4-9bde-126f9bd40e76",
+      "src": "assets/46.jpg",
+      "caption": "",
+      "date": "2026-03-07",
+      "favorite": false
+    },
+    {
+      "id": "3eb065a2-a6a6-4a48-b4b1-eed00c5b87ca",
+      "src": "assets/47.jpg",
+      "caption": "",
+      "date": "2026-03-07",
+      "favorite": false
+    },
+    {
+      "id": "9508bf15-df8e-49cc-bbb2-0238ad39b1f1",
+      "src": "assets/48.jpg",
+      "caption": "",
+      "date": "2026-04-25",
+      "favorite": false
+    },
+    {
+      "id": "5d20baca-f34d-49a6-bace-ba599de95a83",
+      "src": "assets/49.jpg",
+      "caption": "",
+      "date": "2026-04-25",
+      "favorite": false
+    },
+    {
+      "id": "e0741ff2-231c-4621-9fbf-352d639eb531",
+      "src": "assets/50.jpg",
+      "caption": "",
+      "date": "2026-06-06",
+      "favorite": false
+    },
+    {
+      "id": "f76051b9-b813-41e4-9ffa-af891fb78358",
+      "src": "assets/51.jpg",
+      "caption": "",
+      "date": "2026-08-07",
+      "favorite": false
+    },
+    {
+      "id": "6f131bd0-8bc2-4f29-b33c-442c01430e14",
+      "src": "assets/52.jpg",
+      "caption": "",
+      "date": "2026-08-07",
+      "favorite": false
+    },
+    {
+      "id": "450730a7-7eed-46b2-9852-6e9bc50062b6",
+      "src": "assets/53.jpg",
+      "caption": "",
+      "date": "2026-08-07",
+      "favorite": false
+    }
+  ],
+  "notes": [
+    {
+      "id": "c5a72129-611b-4aac-9b2d-290c10acd365",
+      "title": "what to doooo 🖊️",
+      "body": "sunset bareng ✅\ndinner dateee ✅\nsushi date ✅\nconcert date (bebas) ✅\nfirst photobooth ✅\nphotobooth lucu-lucu ✅\nphotobooth pilihan arlan\nstrolling around the world (italy) ✅\njalan-jalan (arlan yang milih) ✅\nbruno mars concert date\nmasakin arlaaan\nbikin cookies buat mama arlan\n\n\n",
+      "pinned": false,
+      "updated": "2026-10-24"
+    },
+    {
+      "id": "e4ab77c5-bccf-4da6-8f82-b7ae733e88a4",
+      "title": "arlan’s 26th birthday",
+      "body": "parfum (anything asal clean) ✅\nbirthday cake ✅\nadd-on: gambar daisy, bolunya vanilla, shine muscat dipinggir\nt-shirt size XL ✅\nsushi tapi wajib ada salmon ✅\ncouple bracelets ✅\nnew shoes (cari yang ada hint blue) ✅\nconfetti kecil ✅\niced espresso large ✅\n",
+      "pinned": false,
+      "updated": "2026-10-24"
+    },
+    {
+      "id": "4e4f8e21-4ba3-4e7e-baff-cc56ab4ad692",
+      "title": "all about arlan <3",
+      "body": "arlan ngga suka tomat, gambas jadi hindarin makanan yang isi dua itu. arlan suka salmon, kalau dessert apa aja dimakan. arlan lately sering beli matcha latte but he said he loves iced espresso, thai tea and jasmine tea. arlan suka warna galak (merah, biru, hitam, putih). arlan alergi udang, kepiting, hati bebek gitudeh. arlan suka dikasih game, disuruh dengerin lagu paling jago, arlan overthinker jadi tugas aku jangan bikin arlan banyak kepikirannnn :p ",
+      "pinned": false,
+      "updated": "2026-10-24"
+    }
+  ],
+  "music": {
+    "tracks": [
+      {
+        "id": "8b4c0c4f-9069-45d3-bbf7-5de779114625",
+        "title": "Losing Us",
+        "artist": "Raissa Anggiani",
+        "cover": "assets/54.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=vJ4OXsMSwMU"
+      },
+      {
+        "id": "8caf34d7-d480-446f-a244-36eaedcdd608",
+        "title": "Less",
+        "artist": "Olivia Rodrigo",
+        "cover": "assets/55.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=Z4BGtpcp1Jg"
+      },
+      {
+        "id": "9fef46d5-82e5-4491-b3a5-0a9f4fa9909b",
+        "title": "Fix You",
+        "artist": "Coldplay",
+        "cover": "assets/56.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=k4V3Mo61fJM"
+      },
+      {
+        "id": "d3733a2c-ae0d-4d4e-bc17-9d98abd12157",
+        "title": "Photograph ",
+        "artist": "Ed Sheeran",
+        "cover": "assets/57.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=KKQl-pIRQMY"
+      },
+      {
+        "id": "30650b34-c76b-4a56-9e77-134641269a44",
+        "title": "All I Want",
+        "artist": "Kodaline",
+        "cover": "assets/58.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=mtf7hC17IBM"
+      },
+      {
+        "id": "362ab464-d956-4be2-aa89-dfe4837883e6",
+        "title": "if u could see me cryin’ in my room",
+        "artist": "Arash Buana",
+        "cover": "assets/59.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=zxPzzS4ooXA"
+      }
+    ],
+    "playlists": []
+  },
+  "calendar": {
+    "events": [
+      {
+        "id": "6864024d-c5b0-4b75-ae0c-2975b954e5d8",
+        "title": "losing",
+        "date": "2026-10-08",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "87276f35-5d83-46e0-b2f8-42c8eafdcb25",
+        "title": "arlan’s photoshoot",
+        "date": "2026-10-02",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "5d405a95-629c-4dc9-9bfd-cc6305f0cb75",
+        "title": "bailee’s day!",
+        "date": "2026-09-28",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "b0da77ae-21fc-4ce8-aa14-16f20e4a3de8",
+        "title": "arlan photoshoot (rustic)",
+        "date": "2026-09-12",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "f405cc31-d36d-4abc-87f0-950278a9ad4a",
+        "title": "date (inget please)",
+        "date": "2026-08-01",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "a193f89f-990c-4c18-87b5-d0e7d02beaa9",
+        "title": "nonton film sedih (apa aja) di bioskop",
+        "date": "2026-06-24",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "6d6e0cf2-39be-4a1b-ab44-c05e1fd78acf",
+        "title": "BIKIN COOKIES",
+        "date": "2026-04-25",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "129b70cb-fdce-4653-9cb6-389463d24ac4",
+        "title": "BELI BAHAN COOKIES",
+        "date": "2026-04-24",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "811080e6-0c58-41d5-aaa8-34d4459061b9",
+        "title": "new year tgt :3",
+        "date": "2025-12-31",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      },
+      {
+        "id": "592a264d-35f9-4a39-bdda-0d13c210cdef",
+        "title": "shopping stock buah arlan",
+        "date": "2026-01-01",
+        "time": "",
+        "endDate": "",
+        "kind": "event",
+        "repeatYearly": false,
+        "inclusive": false,
+        "description": "",
+        "color": "#3B82F6"
+      }
+    ]
+  },
+  "diary": {
+    "entries": [
+      {
+        "id": "a8592a4a-ddc4-407e-8406-53056f864e79",
+        "title": "the one i waited for.",
+        "date": "2026-08-22",
+        "mood": "",
+        "body": "i don't know how to explain it.\n\nbut there's something about arlan that makes my days feel better. the way he talks, the way he makes me smile without even trying, and how somehow, he finds his way into my thoughts even when i'm doing something else.\n\nsometimes, i catch myself smiling at the smallest things just because they remind me of him. it's funny.. how one person can make an ordinary day feel special.\n\ni don't need everything to be perfect. i just want the little moments, the random conversations, the silly jokes, the late-night talks, and the feeling of having someone i genuinely want to tell everything to.\n\nand if there's one thing i wish arlan knew, it's that he means more to me than i always know how to say. \n\nso, dear diary, if one day i ever forget how to put my feelings into words, let this page remind me of one simple thing; it was arlan, and it was always the little things about him that made me smile.\n",
+        "photos": [
+          "assets/78.png"
+        ]
+      },
+      {
+        "id": "7f6a9ff5-b084-4483-89d6-f513d51f7118",
+        "title": "oh, how’s your day?",
+        "date": "2026-04-10",
+        "mood": "",
+        "body": "i wonder how his day went today. \n\ndid he laugh a lot? was he tired? did something make him happy? sometimes, i wish i could see the lil’ moments of his day that he doesn't usually tell anyone about :3\n\none of the nicest things about knowing someone is.. slowly learning the little things abt them. their habits, the things they like, what makes them laugh, and the random stories they tell without realizing i'll probably remember them later.\n\nanyway, enough rambling for tonight yaa hihi. i hope he had a VERY good day, and i hope tomorrow treats him even better.\n\nuntil my next little entry, bailee.",
+        "photos": [
+          "assets/79.png"
+        ]
+      },
+      {
+        "id": "224bf301-70cc-427f-b591-21f9fa16ad9f",
+        "title": "learning (&.) losing",
+        "date": "2026-10-22",
+        "mood": "",
+        "body": "one of the hardest things about losing someone is realizing that the world doesn't stop because yours feels different. \n\ndays keep passing, people keep laughing, and life continues as if nothing has changed. \n\nmeanwhile, i’m trying to understand how something that once felt so familiar can suddenly become a memory.\n\ni never really understood how strange it feels to miss someone who used to be a part of your everyday life. not always about crying, wishing things could go back to the way they were. sometimes, it's just seeing something that reminds you of them and having to sit with the feeling for a moment before moving on.\n\nmaybe, losing someone doesn't always mean they disappear completely. sometimes, they stay in the songs you can't listen to the same way anymore, the places that hold memories, or habits you picked up when they were around.\n\nand the hardest part is learning to live with the absence of someone who once occupied so much space in your life.\n\nif i ever read this again someday, i hope i'll be kinder to the version of me who wrote it. i hope i'll understand that losing someone doesn't mean i wasn't enough, and not every goodbye is something i could have prevented.\n\nfor now, i'll let myself miss what i miss. i'll let myself feel what i feel. i don't have to be okay tonight just because another day has passed.\n\nmaybe tomorrow will hurt a little less.\nand maybe one day, it won't hurt, at all.\n",
+        "photos": [
+          "assets/80.png"
+        ]
+      }
+    ]
+  },
+  "sns": {
+    "profile": {
+      "name": "bailee",
+      "handle": "baileegath",
+      "bio": "was in love.",
+      "followers": "2668",
+      "following": "93",
+      "avatar": "assets/60.jpg",
+      "banner": "assets/61.jpg"
+    },
+    "accounts": [
+      {
+        "id": "fb62af96-121a-4b94-adc5-7dc6568b8d76",
+        "name": "arlan.",
+        "handle": "arlanwaith",
+        "bio": "model, actor.",
+        "avatar": "assets/62.jpg",
+        "banner": "assets/63.jpg",
+        "followers": "56098",
+        "following": "42"
+      },
+      {
+        "id": "926b0077-7512-4e96-aad8-c1eb187372c8",
+        "name": "decath lulabie.",
+        "handle": "decath",
+        "bio": "too depressed to be loved.",
+        "avatar": "assets/64.jpg",
+        "banner": "assets/65.jpg",
+        "followers": "3372",
+        "following": "472"
+      },
+      {
+        "id": "ce5b38f9-f53c-4f21-b24d-8500408078c6",
+        "name": "neillechadora",
+        "handle": "neiy",
+        "bio": "blossoming b(eau)ties.",
+        "avatar": "assets/66.jpg",
+        "banner": "assets/67.jpg",
+        "followers": "2918",
+        "following": "11"
+      }
+    ],
+    "posts": [
+      {
+        "id": "6b64831b-e77f-401c-a8d5-7172ff07af45",
+        "authorId": "fb62af96-121a-4b94-adc5-7dc6568b8d76",
+        "text": "the only exception on life. my reason to stay. my reason to live. my reason to continue everything. my bailee.",
+        "images": [
+          "assets/68.jpg",
+          "assets/69.jpg"
+        ],
+        "likes": "9643",
+        "reposts": "1928",
+        "replies": [
+          {
+            "id": "168ff2de-8548-454a-afef-f3b2e35aaf83",
+            "authorId": "me",
+            "text": ";( i love you"
+          },
+          {
+            "id": "f0d384ad-b51a-45e7-9b0b-c6f3637adc78",
+            "authorId": "926b0077-7512-4e96-aad8-c1eb187372c8",
+            "text": "apsh ini imut @baileegath"
+          }
+        ]
+      },
+      {
+        "id": "0a61211d-2c13-4f75-8bb7-a9042443ee3c",
+        "authorId": "ce5b38f9-f53c-4f21-b24d-8500408078c6",
+        "text": "buzzieee. 💤",
+        "images": [
+          "assets/70.jpg"
+        ],
+        "likes": "911",
+        "reposts": "139",
+        "replies": [
+          {
+            "id": "a60b3ef9-f42d-43bc-875e-c3436b674872",
+            "authorId": "926b0077-7512-4e96-aad8-c1eb187372c8",
+            "text": "pwetty"
+          },
+          {
+            "id": "f4aa29ff-5b74-4fb4-90d2-2d838de7d124",
+            "authorId": "me",
+            "text": "syantik"
+          }
+        ]
+      },
+      {
+        "id": "395f43ed-6a04-4dc5-a9f6-67143acbfdb6",
+        "authorId": "fb62af96-121a-4b94-adc5-7dc6568b8d76",
+        "text": "you always do.",
+        "likes": "4472",
+        "reposts": "172",
+        "replyCount": "12"
+      },
+      {
+        "id": "0cd4990c-edc3-4383-b009-c0adc7a6f2a7",
+        "authorId": "me",
+        "text": "pretty in pink",
+        "images": [
+          "assets/71.jpg",
+          "assets/72.jpg"
+        ],
+        "likes": "2811",
+        "reposts": "827",
+        "replyCount": "38"
+      },
+      {
+        "id": "a046abbe-be02-4df1-9d4a-ac2ce7dc2b99",
+        "authorId": "fb62af96-121a-4b94-adc5-7dc6568b8d76",
+        "text": "i told sunset about you.",
+        "images": [
+          "assets/73.jpg"
+        ],
+        "likes": "12235",
+        "reposts": "5086",
+        "replyCount": "10"
+      },
+      {
+        "id": "450ad5db-748b-450a-b917-004d2f813162",
+        "authorId": "926b0077-7512-4e96-aad8-c1eb187372c8",
+        "text": "mbul dikasih macaron @baileegath :p",
+        "images": [
+          "assets/74.jpg",
+          "assets/75.jpg"
+        ],
+        "likes": "277",
+        "reposts": "44",
+        "replyCount": "4",
+        "replies": [
+          {
+            "id": "e1aa701f-b1c5-4847-8d26-5c0adfc2065e",
+            "authorId": "me",
+            "text": "APASIH NGGA MBUL.",
+            "date": "2026-10-24"
+          }
+        ]
+      },
+      {
+        "id": "27ee8c9b-3b50-4ed4-a1ed-ad822a595ad7",
+        "authorId": "me",
+        "text": "somewhere to stay",
+        "images": [
+          "assets/76.jpg",
+          "assets/77.jpg"
+        ],
+        "likes": "992",
+        "reposts": "458",
+        "replyCount": "12"
+      },
+      {
+        "id": "2e1bc612-95a0-464f-9d1a-0b2214f8af69",
+        "authorId": "fb62af96-121a-4b94-adc5-7dc6568b8d76",
+        "text": "i'll choose you, every time. every lifetime.",
+        "likes": "7809",
+        "reposts": "1432"
+      },
+      {
+        "id": "bb1b22d4-50b5-4702-a817-4b2dc1638c83",
+        "authorId": "me",
+        "text": "i will never heal.",
+        "likes": "824",
+        "reposts": "180"
+      }
+    ]
+  },
+  "calls": [
+    {
+      "id": "6fd4bd89-5964-4058-9e3c-33a04ccb37e2",
+      "type": "incoming",
+      "contactId": "6df48c82-b3a8-4886-9f4f-b1bd1eead5c7",
+      "date": "2026-10-12",
+      "time": "20:56"
+    },
+    {
+      "id": "5fb53aef-ce21-48bb-b10e-530b965edb00",
+      "type": "outgoing",
+      "contactId": "13cbb09e-8c54-4286-9fc4-8be4a4c31ad3",
+      "date": "2026-10-29",
+      "time": "00:38"
+    },
+    {
+      "id": "bc4c6e6e-11fb-44ac-9c8f-880772a7396a",
+      "type": "incoming",
+      "contactId": "82a4279a-869e-41d5-82d9-7359ea8820a0",
+      "date": "2026-09-28",
+      "time": "00:15"
+    },
+    {
+      "id": "96877843-acb5-4ce8-afcb-88f15f415faa",
+      "type": "incoming",
+      "contactId": "6df48c82-b3a8-4886-9f4f-b1bd1eead5c7",
+      "date": "2026-09-28",
+      "time": "18:30"
+    },
+    {
+      "id": "2d5247f4-77fb-4e42-8cb9-6be3634d9f8d",
+      "type": "incoming",
+      "contactId": "d8815086-a40c-413f-b4fa-da95e6c9f9db",
+      "date": "2026-09-28",
+      "time": "06:24"
+    },
+    {
+      "id": "b0f492ce-fd03-46ac-ad97-e7e82aeb44d6",
+      "type": "incoming",
+      "contactId": "6df48c82-b3a8-4886-9f4f-b1bd1eead5c7",
+      "date": "2026-09-30",
+      "time": "11:24"
+    },
+    {
+      "id": "f7f9ce98-2937-4bcc-9ad6-dfd99abac98c",
+      "type": "missed",
+      "contactId": "6df48c82-b3a8-4886-9f4f-b1bd1eead5c7",
+      "date": "2026-09-24",
+      "time": "17:32"
+    },
+    {
+      "id": "f7d0d89a-5450-40f7-8881-bc229f424f3b",
+      "type": "outgoing",
+      "contactId": "6df48c82-b3a8-4886-9f4f-b1bd1eead5c7",
+      "date": "2026-10-01",
+      "time": "12:45"
+    }
+  ],
+  "updatedAt": "2026-10-24T16:07:37.795Z"
+}
